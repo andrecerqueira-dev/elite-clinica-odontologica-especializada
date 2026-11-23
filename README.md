@@ -58,6 +58,6 @@ A proposta foi colocar em prática os conhecimentos adquiridos em HTML, CSS e Ja
 
 **André Cerqueira**
 
-Desenvolvedor Front-End em formação, em transição de carreira para a área de Tecnologia.
+Desenvolvedor Full-Stack em formação, em transição de carreira para a área de Tecnologia.
 
 Buscando transformar aprendizado em projetos reais, desenvolver soluções digitais e evoluir continuamente como profissional.
