@@ -1,4 +1,4 @@
-# ✨ Elite Clínica Odontologia Especializada
+# ✨ Elite Clínica Odontológica Especializada
 
 ### Sofisticação, cuidado e excelência em saúde bucal.
 
